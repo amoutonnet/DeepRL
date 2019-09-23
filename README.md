@@ -4,9 +4,9 @@ Install the gym environment (for windows see this tutoriel https://towardsdatasc
 
 # The project
 
-The purpose of this project is for me to implement the concept of Deep Reinforcement Learning, starting with this paper https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf and trying to go further once the basis done.<br/>
+The purpose of this project is for me to implement (in tensorflow 2.0) the concept of Deep Reinforcement Learning, starting with this paper https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf and trying to go further once the basis done.<br/>
 We will use gym environments from OpenAI to apply this concept of Deep Reinforcement Learning on arcade games. After that, we will tackle trading problem and see if an AI could be a good trader.
 
 # Advancement of the project
 
-For the moment, I managed to display the arcade game on Windows with an agent playing without any policy. We will try to improve this policy using Q-Learning technics. The best is yet to come...
+For the moment, the basis code seems to work on arcade games, but the training is very hard for a single computer, waiting to subscribe for Microsoft Azure, or testing it on Google Collab.
